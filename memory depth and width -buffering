@@ -1,0 +1,8 @@
+when dats entering a system is faster than it can leave 
+ex 2000 comes in while 1000 leaves so 
+2000-1000=1000 dta have no where to go so to store this data we use buffer 
+ingress=incoming data;
+egress=outgoing data ;
+..
+at one point even the buffer storage reaches a limit and attain a overflow thats where buffer depth is needed 
+buffer.png

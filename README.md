@@ -1,8 +1,6 @@
 # Digital Electronics
+session-1
 
-Concept notes, worked examples, and diagrams from my digital electronics learning journey.
-
-## Learning notes
 
 | Topic | What it covers |
 | :--- | :--- |
@@ -10,4 +8,3 @@ Concept notes, worked examples, and diagrams from my digital electronics learnin
 
 Each chapter brings together the core idea, formulas with units, explicit assumptions, and worked examples for revision.
 
-— **A2HIKA A**
